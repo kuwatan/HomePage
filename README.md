@@ -1,3 +1,2 @@
-なんとなくで作ったwebサイトです。
-
-アドレスはこちらから https://kuwatan.github.io/HomePage/
+https://github.com/kuwatan/Video-Publishing-Service にリダイレクトするサイトです.
+jekyll-redirect-fromを使ってます
